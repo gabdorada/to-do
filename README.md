@@ -1,7 +1,7 @@
 ## Simple To-Do List
 This is a lightweight Python project developed to practice core programming logic and file handling. It serves as a practical exercise in building a functional CLI tool for daily task management.
 
-###📌 Overview
+### 📌 Overview
 The goal was to create a simple and efficient way to:
 
 - **Manage Tasks:** Create, view, and remove items from a list via terminal.
