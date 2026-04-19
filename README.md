@@ -1,13 +1,13 @@
-## Simple To-Do List
-This is a lightweight Python project developed to practice core programming logic and file handling. It serves as a practical exercise in building a functional CLI tool for daily task management.
+## 📝 Lista de Tarefas (CLI) em Python
+Este é um projeto Python leve, desenvolvido para praticar a lógica de programação central e a manipulação de arquivos. Ele serve como um exercício prático na construção de uma ferramenta de linha de comando (CLI) funcional para o gerenciamento diário de tarefas.
 
-### 📌 Overview
-The goal was to create a simple and efficient way to:
+### 📌 Visão Geral
+O objetivo foi criar uma maneira simples e eficiente de:
 
-- **Manage Tasks:** Create, view, and remove items from a list via terminal.
+- **Gerenciar Tarefas:** Criar, visualizar e remover itens de uma lista diretamente pelo terminal.
 
-- **Ensure Persistence:** Save data locally so tasks remain available after closing the application.
+- **Garantir Persistência:** Salvar os dados localmente (em arquivo) para que as tarefas permaneçam disponíveis após fechar a aplicação.
 
-- **Clean Code:** Apply fundamental Python concepts like functions, loops, and conditional logic in a structured way.
+- **Código Limpo:** Aplicar conceitos fundamentais de Python, como funções, loops e lógica condicional, de forma estruturada.
 
-This project is part of my ongoing studies in software development, focusing on building solid foundations in Python.
+Este projeto faz parte dos meus estudos contínuos em desenvolvimento de software, com foco na construção de bases sólidas em Python.
